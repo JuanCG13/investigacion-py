@@ -1,7 +1,7 @@
 {
-  "sitename": "Investigacion",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/inv.png",
+  "sitename": "La Mesa de Camus",
+  "sitedescription": "Informar, Entretener y generar intriga. Esa es nuestra mision.",
+  "siteicon": "/images/uploads/lmc.png",
   "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
